@@ -6,8 +6,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 ## Table of Contents
 - [Summary](#Summary)
 - [Presenters](#Presenters)
-- Presentations<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Season1](#Season1)
+- Presentations
+  - [Season1](#Season1)
 
 ## Summary
 ### by Subject
