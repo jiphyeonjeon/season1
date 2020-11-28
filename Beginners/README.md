@@ -42,6 +42,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - [Paper](), [Video](), [Presentation]()
 	> - *Sepp Hochreiter et al., Neural Computation 1997*
 	> - Keywords: LSTM, Neural Network
-	> - Presentor : 석리
+	> - Presentor : 석리 님
 
 - 02 : ...
