@@ -13,7 +13,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 ### by Subject
 | Subject | Season1 |
 |---|---|
-| MRC | 01 |
+| Neural Network | 1 |
 | Total | 1 |
 
 ### by Conference/Journals
