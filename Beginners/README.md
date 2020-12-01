@@ -11,29 +11,26 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 
 ## Summary
 ### by Subject
-| Subject | Season1 | ... |
-|---|---|---|
-| MRC | 01 | ... |
-| ...| ... | ... |
-| Total | 1 | ... |
+| Subject | Season1 |
+|---|---|
+| MRC | 01 |
+| Total | 1 |
 
 ### by Conference/Journals
-| Conference/Journal | Season1 | ... |
-| --- | --- | --- |
-| Neural Computation | 1 | ... |
-| Total | 1 | ... |
+| Conference/Journal | Season1 |
+| --- | --- |
+| Neural Computation | 1 |
+| Total | 1 |
 
 ### by Published Year
-| Year | Season1 | ... |
-| --- | --- | --- |
-| 1997 | 1 | ... |
-| Total | 1 | ... |
+| Year | Season1 |
+| --- | --- |
+| 1997 | 1 |
+| Total | 1 |
 
 ## Presenters
 ### Season1
-- [발표자1]() : Season1-01, Season2-15, ...
-- [발표자2]() : Season1-14, Season2-06, ...
-- ...
+- [발표자1](석리 님) : Season1-01
 
 ## Presentations
 ### Season1
