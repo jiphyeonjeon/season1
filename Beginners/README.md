@@ -35,7 +35,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 ## Presentations
 ### Season1
 - 01 : Long Short-Term Memory
-	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](), [Presentation](presentation/01. LSTM 논문 리뷰 (석리님).pdf)
+	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](), [Presentation](Season 1/presentation/01. LSTM 논문 리뷰 (석리님).pdf)
 	> - *Sepp Hochreiter et al., Neural Computation 1997*
 	> - Keywords: LSTM, Neural Network
 	> - Presentor : 석리 님
