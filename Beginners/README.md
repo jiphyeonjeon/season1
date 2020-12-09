@@ -39,5 +39,3 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *S. Hochreiter, J. Schmidhuber,  Neural Computation 1997*
 	> - Keywords: LSTM, Neural Network
 	> - Presentor : 송석리
-
-- 02 : ...
