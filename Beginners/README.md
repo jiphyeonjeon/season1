@@ -38,6 +38,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](https://youtu.be/HHKSCkPEQfw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/01.%20LSTM%20논문%20리뷰%20(석리님).pdf)
 	> - *S. Hochreiter, J. Schmidhuber,  Neural Computation 1997*
 	> - Keywords: LSTM, Neural Network
-	> - Presentor : 석리 님
+	> - Presentor : 송석리
 
 - 02 : ...
