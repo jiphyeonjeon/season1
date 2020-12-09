@@ -30,12 +30,12 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 
 ## Presenters
 ### Season1
-- [MyungHoon, Jin]() (youtube-공개예정): [Season1](#Season1)-01
+- [MyungHoon, Jin](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
 
 ## Presentations
 ### Season1
 - 01 : If beam search is the answer, what was the question?
-	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.170/), [Video]()(youtube-공개예정), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-01_If%20beam%20search%20is%20the%20answer%2C%20what%20was%20the%20question.pdf)
+	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.170/), [Video](https://www.youtube.com/watch?v=KJClfF_nJj0), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-01_If%20beam%20search%20is%20the%20answer%2C%20what%20was%20the%20question.pdf)
 	> - *Clara Meister et al., EMNLP 2020*
 	> - Keywords: Beam Search, Uniform Information Density
 	> - Presenter : MyungHoon-Jin
