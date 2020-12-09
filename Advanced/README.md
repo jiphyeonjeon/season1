@@ -30,7 +30,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 
 ## Presenters
 ### Season1
-- [MyungHoon, Jin](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
+- [진명훈](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
 
 ## Presentations
 ### Season1
