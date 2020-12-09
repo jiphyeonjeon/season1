@@ -30,7 +30,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 
 ## Presenters
 ### Season1
-- [발표자1](석리 님) : Season1-01
+- [송석리](https://www.youtube.com/channel/UCi_yBLEHaNd_kqRtGn3HHsQ)
 
 ## Presentations
 ### Season1
