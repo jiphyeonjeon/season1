@@ -20,13 +20,15 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 | Conference/Journal | Season1 |
 | --- | --- |
 | Neural Computation | 1 |
-| Total | 1 |
+| International Conference on Learning Representations | 1 |
+| Total | 2 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
 | 1997 | 1 |
-| Total | 1 |
+| 2013 | 1 |
+| Total | 2 |
 
 ## Presenters
 ### Season1
