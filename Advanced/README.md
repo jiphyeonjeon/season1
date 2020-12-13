@@ -14,23 +14,25 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Subject | Season1 |
 |---|---|
 | Decoding | 1 |
-| Total | 1 |
+| Augmentation | 1 |
+| Total | 2 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
-| EMNLP | 1 |
-| Total | 1 |
+| EMNLP | 2 |
+| Total | 2 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
-| 2020 | 1 |
-| Total | 1 |
+| 2020 | 2 |
+| Total | 2 |
 
 ## Presenters
 ### Season1
 - [진명훈](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
+- [박동주]()
 
 ## Presentations
 ### Season1
@@ -39,3 +41,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Clara Meister et al., EMNLP 2020*
 	> - Keywords: Beam Search, Uniform Information Density
 	> - Presenter : 진명훈
+- 02 : SSMBA- Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness
+	> - [Paper](https://arxiv.org/abs/2009.10195), [Video](), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season-1-02_SSMBA-%20Self-Supervised%20Manifold%20Based%20Data%20Augmentation%20for%20Improving%20Out-of-Domain%20Robustness.pdf)
+	> - *Nathan Ng et al., EMNLP 2020*
+	> - Keywords: Augmentation, Manifold, Out-of-Domain
+	> - Presenter : 박동주
