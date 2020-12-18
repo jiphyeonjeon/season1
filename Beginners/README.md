@@ -45,7 +45,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: LSTM, Neural Network
 	> - Presentor : 송석리
 - 02 : Efficient Estimation of Word Representations in Vector Space
-	> - [Paper](https://arxiv.org/pdf/1301.3781.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/02.%20Word2Vec%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EC%9D%B4%EC%98%81%EB%B9%88%20%EB%8B%98).pdf)
+	> - [Paper](https://arxiv.org/pdf/1301.3781.pdf), [Video](https://www.youtube.com/watch?v=o-2kfiZP7Z8&feature=youtu.be), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/02.%20Word2Vec%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EC%9D%B4%EC%98%81%EB%B9%88%20%EB%8B%98).pdf)
 	> - *Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). arXiv preprint arXiv:1301.3781.*
 	> - Keywords: Word2Vec
 	> - Presentor : 이영빈
