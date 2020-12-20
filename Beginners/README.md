@@ -14,26 +14,29 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 | Subject | Season1 |
 |---|---|
 | Neural Network | 1 |
-| Total | 1 |
+| Embedding | 2 |
+| Total | 3 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | Neural Computation | 1 |
 | International Conference on Learning Representations | 1 |
-| Total | 2 |
+| Transactions of the Association for Computational Linguistics | 1 |
+| Total | 3 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
 | 1997 | 1 |
 | 2013 | 1 |
-| Total | 2 |
+| 2017 | 1 |
+| Total | 3 |
 
 ## Presenters
 ### Season1
 - [송석리](https://www.youtube.com/channel/UCi_yBLEHaNd_kqRtGn3HHsQ)
-- 영빈
+- [이영빈](https://www.youtube.com/watch?v=o-2kfiZP7Z8&feature=youtu.be)
 - 이기창
 - 허치영
 
@@ -50,7 +53,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: Word2Vec
 	> - Presentor : 이영빈
 - 03 : Enriching Word Vectors with Subword Information
-	> - [Paper](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051), Video, Presentation
+	> - [Paper](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/03.%20FastText%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EC%9D%B4%EA%B8%B0%EC%B0%BD%20%EB%8B%98).pdf)
 	> - *Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Transactions of the Association for Computational Linguistics, 5, 135-146.*
 	> - Keywords: Fasttext 
 	> - Presentor : 이기창
