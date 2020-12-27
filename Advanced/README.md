@@ -33,7 +33,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 ### Season1
 - [진명훈](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
 - [박동주](https://www.youtube.com/channel/UCpWzTCPf4PUNe-2WO6zc0gw)
-- [고현웅](https://www.youtube.com/user/gusdnd)
+- [고현웅](https://www.youtube.com/channel/UCixOawIqz-OrZIolJ-WDoGw)
 <!--
 - [대규]()
 - [수영]()
@@ -52,7 +52,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 박동주
 
 - 03 : Translation Survey (vol1) : Background
-	> - Paper, [Video](https://www.youtube.com/watch?v=MnBlERqL5I4), [Presentation]()
+	> - Paper, [Video](https://www.youtube.com/watch?v=qkL4ki07f3s&t=3124s), [Presentation]()
 	> - Keywords: Attention Mechanism, Pretrained Language Modeling, Machine Translation
 	> - Presenter : 고현웅
 <!--
