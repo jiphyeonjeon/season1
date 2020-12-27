@@ -51,10 +51,9 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Keywords: Augmentation, Manifold, Out-of-Domain
 	> - Presenter : 박동주
 
-- 03 :
-	> - [Paper](), [Video](https://www.youtube.com/watch?v=MnBlERqL5I4), [Presentation]()
-	> - 
-	> - Keywords: 
+- 03 : Translation Survey (vol1) : Background
+	> - Paper, [Video](https://www.youtube.com/watch?v=MnBlERqL5I4), [Presentation]()
+	> - Keywords: Attention Mechanism, Pretrained Language Modeling, Machine Translation
 	> - Presenter : 고현웅
 <!--
 - 04 :
