@@ -23,7 +23,8 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 | Neural Computation | 1 |
 | International Conference on Learning Representations | 1 |
 | Transactions of the Association for Computational Linguistics | 1 |
-| Total | 3 |
+| Journal of machine learning research | 1 |
+| Total | 4 |
 
 ### by Published Year
 | Year | Season1 |
@@ -58,7 +59,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: Fasttext 
 	> - Presentor : 이기창
 - 04 : A Neural Probabilistic Language Model
-	> - [Paper](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), Video, Presentation
+	> - [Paper](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/04.%20A%20Neural%20Probabilistic%20Language%20Model%20논문%20리뷰%20pdf%20ver.%20(허치영%20님).pdf)
 	> - *Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). Journal of machine learning research, 3(Feb), 1137-1155.*
 	> - Keywords: Statistical language modeling, artificial neural networks, distributed representation, curse of dimensionality
 	> - Presentor : 허치영
