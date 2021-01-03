@@ -15,7 +15,9 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 |---|---|
 | Decoding | 1 |
 | Augmentation | 1 |
-| Total | 2 |
+| Translation | 1 |
+| Dialog | 1 |
+| Total | 4 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
@@ -26,16 +28,16 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
-| 2020 | 2 |
-| Total | 2 |
+| 2020 | 3 |
+| Total | 3 |
 
 ## Presenters
 ### Season1
 - [진명훈](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
 - [박동주](https://www.youtube.com/channel/UCpWzTCPf4PUNe-2WO6zc0gw)
 - [고현웅](https://www.youtube.com/channel/UCixOawIqz-OrZIolJ-WDoGw)
+- 김대규
 <!--
-- [대규]()
 - [수영]()
 -->
 ## Presentations
@@ -45,6 +47,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Clara Meister et al., EMNLP 2020*
 	> - Keywords: Beam Search, Uniform Information Density
 	> - Presenter : 진명훈
+
 - 02 : SSMBA- Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness
 	> - [Paper](https://arxiv.org/abs/2009.10195), [Video](https://www.youtube.com/watch?v=1IwHZ_4uPK0&list=PLsXisDblbLJ8msozFyA8o2zf3zfbORHWd&index=2), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-02_SSMBA-%20Self-Supervised%20Manifold%20Based%20Data%20Augmentation%20for%20Improving%20Out-of-Domain%20Robustness.pdf)
 	> - *Nathan Ng et al., EMNLP 2020*
@@ -55,6 +58,16 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Paper, [Video](https://www.youtube.com/watch?v=qkL4ki07f3s&t=3124s), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-03_Machine%20Translation%20Survey%20-%20vol1.pptx)
 	> - Keywords: Attention Mechanism, Pretrained Language Modeling, Machine Translation
 	> - Presenter : 고현웅
+	
+- 04 : Translation Survey (vol2) : Machine Translation
+	> - Paper, Video, Presentation
+	> - Keywords: 
+	> - Presenter : 고현웅
+	
+- 05 : Recipes for building an open-domain chatbot
+	> - [Paper](https://arxiv.org/abs/2004.13637), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-05_Recipes%20for%20building%20an%20open-domain%20chatbot.pdf)
+	> - Keywords: BST, poly encoder, retrieve and refine
+	> - Presenter : 김대규
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
