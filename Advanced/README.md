@@ -36,7 +36,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [진명훈](https://www.youtube.com/channel/UClvgNgOJBLt3KT-nH5J24jg)
 - [박동주](https://www.youtube.com/channel/UCpWzTCPf4PUNe-2WO6zc0gw)
 - [고현웅](https://www.youtube.com/channel/UCixOawIqz-OrZIolJ-WDoGw)
-- 김대규
+- [김대규](https://www.youtube.com/channel/UCGa2inCnq7MKWzmIUgxSusg)
 <!--
 - [수영]()
 -->
@@ -65,7 +65,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 고현웅
 	
 - 05 : Recipes for building an open-domain chatbot
-	> - [Paper](https://arxiv.org/abs/2004.13637), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-05_Recipes%20for%20building%20an%20open-domain%20chatbot.pdf)
+	> - [Paper](https://arxiv.org/abs/2004.13637), [Video](https://www.youtube.com/watch?v=lbodJgH1XGE), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-05_Recipes%20for%20building%20an%20open-domain%20chatbot.pdf)
 	> - Keywords: BST, poly encoder, retrieve and refine
 	> - Presenter : 김대규
 <!--
