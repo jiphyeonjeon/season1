@@ -66,6 +66,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	
 - 05 : Recipes for building an open-domain chatbot
 	> - [Paper](https://arxiv.org/abs/2004.13637), [Video](https://www.youtube.com/watch?v=lbodJgH1XGE), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-05_Recipes%20for%20building%20an%20open-domain%20chatbot.pdf)
+	> - *Stephen Roller et al.*
 	> - Keywords: BST, poly encoder, retrieve and refine
 	> - Presenter : 김대규
 <!--
