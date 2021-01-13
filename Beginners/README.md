@@ -44,6 +44,9 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - [이기창](https://www.youtube.com/watch?v=7pDB9zqwxhs)
 - [허치영](https://www.youtube.com/watch?v=EWMNCTpfsLI&feature=youtu.be)
 - 이정섭
+- 지은
+- 오새찬
+- 
 
 ## Presentations
 ### Season1
