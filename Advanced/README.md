@@ -62,8 +62,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 고현웅
 	
 - 04 : Translation Survey (vol2) : Machine Translation
-	> - Paper, Video, Presentation
-	> - Keywords: 
+	> - Paper, [Video](https://youtu.be/18iH6VX-IU4), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-04_Machine%20Translation%20Survey%20-%20vol2.pptx)
+	> - Keywords: Translation, Dataset, Efficiency, Training, Architecture 
 	> - Presenter : 고현웅
 	
 - 05 : Recipes for building an open-domain chatbot
