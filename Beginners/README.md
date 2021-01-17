@@ -84,7 +84,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - [Paper](https://www.aclweb.org/anthology/D14-1162/), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/05.%20GloVe%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EA%B9%80%EC%A7%80%EC%9D%80%20%EB%8B%98).pdf)
 	> - *Jeffrey Pennington, Richard Socher, Christopher Manning (2014). Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1532-1543.*
 	> - Keywords: GloVe, Word Representation, Embedding
-	> - Presentor : 지은
+	> - Presentor : 김지은
 - 08 : Sequence to Sequence Learning with Neural Networks 
 	> - [Paper](https://dl.acm.org/doi/10.5555/2969033.2969173), Video, Presentation
 	> - *Ilya Sutskever, Oriol Vinyals, Quoc V. Le (2014). Proceedings of the 27th International Conference on Neural Information Processing Systems, Volume 2, 3104-3112.*
