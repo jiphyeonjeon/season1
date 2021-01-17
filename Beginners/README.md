@@ -45,7 +45,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - [허치영](https://www.youtube.com/watch?v=EWMNCTpfsLI&feature=youtu.be)
 - 이정섭
 - [오새찬](https://www.youtube.com/watch?v=EbXJ7OT6utQ)
-- 지은
+- 김지은
 - 형민
 
 ## Presentations
