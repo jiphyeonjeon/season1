@@ -44,8 +44,8 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - [이기창](https://www.youtube.com/watch?v=7pDB9zqwxhs)
 - [허치영](https://www.youtube.com/watch?v=EWMNCTpfsLI&feature=youtu.be)
 - 이정섭
+- [오새찬](https://www.youtube.com/watch?v=EbXJ7OT6utQ)
 - 지은
-- 오새찬
 - 형민
 
 ## Presentations
@@ -75,16 +75,16 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Advances in neural information processing systems, 30, 5998-6008.*
 	> - Keywords: transformer
 	> - Presentor : 이정섭
-- 06 : GloVe: Global Vectors for Word Representation 
+- 06 : BERT: Pre-trainig of Deep Bidirectional Transformers for Language Understanding 
+	> - [Paper](https://arxiv.org/abs/1810.04805), [Video](https://www.youtube.com/watch?v=EbXJ7OT6utQ), Presentation
+	> - *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova (2019). Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1, 4171-4186.*
+	> - Keywords: BERT, Transformers, language representation model
+	> - Presentor : 오새찬
+- 07 : GloVe: Global Vectors for Word Representation 
 	> - [Paper](https://www.aclweb.org/anthology/D14-1162/), Video, Presentation
 	> - *Jeffrey Pennington, Richard Socher, Christopher Manning (2014). Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1532-1543.*
 	> - Keywords: GloVe, Word Representation, Embedding
 	> - Presentor : 지은
-- 07 : BERT: Pre-trainig of Deep Bidirectional Transformers for Language Understanding 
-	> - [Paper](https://arxiv.org/abs/1810.04805), Video, Presentation
-	> - *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova (2019). Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1, 4171-4186.*
-	> - Keywords: BERT, Transformers, language representation model
-	> - Presentor : 오새찬
 - 08 : Sequence to Sequence Learning with Neural Networks 
 	> - [Paper](https://dl.acm.org/doi/10.5555/2969033.2969173), Video, Presentation
 	> - *Ilya Sutskever, Oriol Vinyals, Quoc V. Le (2014). Proceedings of the 27th International Conference on Neural Information Processing Systems, Volume 2, 3104-3112.*
