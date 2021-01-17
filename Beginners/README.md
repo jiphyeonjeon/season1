@@ -76,7 +76,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: transformer
 	> - Presentor : 이정섭
 - 06 : BERT: Pre-trainig of Deep Bidirectional Transformers for Language Understanding 
-	> - [Paper](https://arxiv.org/abs/1810.04805), [Video](https://www.youtube.com/watch?v=EbXJ7OT6utQ), Presentation
+	> - [Paper](https://arxiv.org/abs/1810.04805), [Video](https://www.youtube.com/watch?v=EbXJ7OT6utQ), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/06.%20BERT%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EC%98%A4%EC%83%88%EC%B0%AC%20%EB%8B%98).pdf)
 	> - *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova (2019). Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1, 4171-4186.*
 	> - Keywords: BERT, Transformers, language representation model
 	> - Presentor : 오새찬
