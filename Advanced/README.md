@@ -18,19 +18,20 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Translation | 2 |
 | Dialog | 1 |
 | Knowledge_Distillation | 1 |
-| Total | 6 |
+| Query Generation | 1 |
+| Total | 7 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
-| EMNLP | 3 |
-| Total | 3 |
+| EMNLP | 4 |
+| Total | 4 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
-| 2020 | 4 |
-| Total | 4 |
+| 2020 | 5 |
+| Total | 5 |
 
 ## Presenters
 ### Season1
@@ -39,6 +40,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [고현웅](https://www.youtube.com/channel/UCixOawIqz-OrZIolJ-WDoGw)
 - [김대규](https://www.youtube.com/channel/UCGa2inCnq7MKWzmIUgxSusg)
 - 양수영
+- 
 <!--
 - [수영]()
 -->
@@ -77,6 +79,12 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Nils Reimers and Iryna Gurevych, EMNLP 2020*
 	> - Keywords: Knowledge Distillation, Cross Lingual
 	> - Presenter : 양수영
+	
+- 07 : Incorporating Behavioral Hypotheses for Query Generation
+	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1_07_Incorporating_Behavioral_Hypotheses_for_Query_Generation_ilhyeon.song.pdf)
+	> - *Ruey-Cheng Chen and Chia-Jung Lee, EMNLP 2020*
+	> - Keywords: Behavial Hypothese, BART, Meshed Representation
+	> - Presenter : 송일현
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
