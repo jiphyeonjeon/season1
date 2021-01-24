@@ -87,7 +87,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: GloVe, Word Representation, Embedding
 	> - Presentor : 김지은
 - 08 : Sequence to Sequence Learning with Neural Networks 
-	> - [Paper](https://dl.acm.org/doi/10.5555/2969033.2969173), Video, Presentation
+	> - [Paper](https://dl.acm.org/doi/10.5555/2969033.2969173), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/08.%20Seq2Seq%20Learning%20with%20Neural%20Networks%20(%EC%8B%AC%ED%98%95%EB%AF%BC%20%EB%8B%98).pdf)
 	> - *Ilya Sutskever, Oriol Vinyals, Quoc V. Le (2014). Proceedings of the 27th International Conference on Neural Information Processing Systems, Volume 2, 3104-3112.*
 	> - Keywords: seq2seq, Neural Network, LSTM, translation
 	> - Presentor : 심형민
