@@ -81,7 +81,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 양수영
 	
 - 07 : Incorporating Behavioral Hypotheses for Query Generation
-	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1_07_Incorporating_Behavioral_Hypotheses_for_Query_Generation_ilhyeon.song.pdf)
+	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf), [Video](https://youtu.be/ZVDlZJ0WvWA), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1_07_Incorporating_Behavioral_Hypotheses_for_Query_Generation_ilhyeon.song.pdf)
 	> - *Ruey-Cheng Chen and Chia-Jung Lee, EMNLP 2020*
 	> - Keywords: Behavial Hypothese, BART, Meshed Representation
 	> - Presenter : 송일현
