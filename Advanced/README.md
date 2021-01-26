@@ -59,7 +59,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 박동주
 
 - 03 : Translation Survey (vol1) : Background
-	> - Paper, [Video](https://www.youtube.com/watch?v=qkL4ki07f3s&t=3124s), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-03_Machine%20Translation%20Survey%20-%20vol1.pptx)
+	> - Paper, [Video](https://youtu.be/KQfvEg-fGMw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/presentations/Season1-03_Machine%20Translation%20Survey%20-%20vol1.pptx)
 	> - Keywords: Attention Mechanism, Pretrained Language Modeling, Machine Translation
 	> - Presenter : 고현웅
 	
