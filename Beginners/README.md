@@ -47,7 +47,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - [오새찬](https://www.youtube.com/watch?v=EbXJ7OT6utQ)
 - 김지은
 - [심형민](https://www.youtube.com/watch?v=ujJlwhvcUIk&feature=youtu.be)
-- 승정
+- 진승정
 
 ## Presentations
 ### Season1
@@ -95,4 +95,4 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - [Paper](https://arxiv.org/abs/1412.5567), Video, Presentation
 	> - *Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, et al. (2014). arXiv preprint arXiv:1412.5567.*
 	> - Keywords: speech recognition, RNN
-	> - Presentor : 승정
+	> - Presentor : 진승정
