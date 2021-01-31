@@ -85,6 +85,11 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Ruey-Cheng Chen and Chia-Jung Lee, EMNLP 2020*
 	> - Keywords: Behavial Hypothese, BART, Meshed Representation
 	> - Presenter : 송일현
+
+- 08 : GPT-X
+	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_08_GPT-X.pptx)
+	> - Keywords: GPT, Language Model
+	> - Presenter : 고현웅
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
