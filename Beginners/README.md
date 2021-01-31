@@ -72,9 +72,9 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: Statistical language modeling, artificial neural networks, distributed representation, curse of dimensionality
 	> - Presentor : 허치영
 - 05 : Attention is all you need 
-	> - [Paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), Video, Presentation
+	> - [Paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [Video](https://youtu.be/iGFPFIUGCPs), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/05.%20Attention%20mechanism%20%26%20transformer%20(%EC%9D%B4%EC%A0%95%EC%84%AD%20%EB%8B%98).pdf)
 	> - *Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Advances in neural information processing systems, 30, 5998-6008.*
-	> - Keywords: transformer
+	> - Keywords: Attention, bahdanau attention, dot-product attention, teacher forcing, transformer 
 	> - Presentor : 이정섭
 - 06 : BERT: Pre-trainig of Deep Bidirectional Transformers for Language Understanding 
 	> - [Paper](https://arxiv.org/abs/1810.04805), [Video](https://www.youtube.com/watch?v=EbXJ7OT6utQ), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/06.%20BERT%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%20(%EC%98%A4%EC%83%88%EC%B0%AC%20%EB%8B%98).pdf)
