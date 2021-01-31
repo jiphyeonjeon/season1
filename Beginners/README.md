@@ -92,7 +92,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: seq2seq, Neural Network, LSTM, translation
 	> - Presentor : 심형민
 - 09 : Deep Speech: Scaling up end-to-end speech recognition 
-	> - [Paper](https://arxiv.org/abs/1412.5567), Video, Presentation
+	> - [Paper](https://arxiv.org/abs/1412.5567), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/09.%20Deep%20Speech%20Scaling%20Up%20End%20to%20End%20Speech%20Recognition%20(%EC%A7%84%EC%8A%B9%EC%A0%95%20%EB%8B%98).pdf)
 	> - *Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, et al. (2014). arXiv preprint arXiv:1412.5567.*
 	> - Keywords: speech recognition, RNN
 	> - Presentor : 진승정
