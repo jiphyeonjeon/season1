@@ -93,7 +93,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Keywords: GPT, Language Model
 	> - Presenter : 고현웅
 - 09 : Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping
-	> - Paper(https://arxiv.org/abs/2010.13369), Video(https://www.youtube.com/watch?v=mLyq5JFr-kE&t=1s), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_09_Accelerating%20Training%20of%20Transformer-Based%20Language%20Models%20with%20Progressive%20Layer%20Dropping_%EA%B5%AC%ED%98%9C%EC%97%B0.pdf)
+	> - (Paper)[https://arxiv.org/abs/2010.13369], (Video)[https://www.youtube.com/watch?v=mLyq5JFr-kE&t=1s], [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_09_Accelerating%20Training%20of%20Transformer-Based%20Language%20Models%20with%20Progressive%20Layer%20Dropping_%EA%B5%AC%ED%98%9C%EC%97%B0.pdf)
 	> - *Minjia Zhang and Yuxiong He*
 	> - Keywords: Progressive Layer Dropping, Stochastic Depth, Transformer
 	> - Presenter : 구혜연
