@@ -42,7 +42,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [김대규](https://www.youtube.com/channel/UCGa2inCnq7MKWzmIUgxSusg)
 - 양수영
 - [송일현](https://www.youtube.com/channel/UCjhAUlylQz81M1VHLAKEk_Q)
-- 구혜연(https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
+- [구혜연](https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
 <!--
 - [수영]()
 -->
