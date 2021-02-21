@@ -102,3 +102,13 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Matthew Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer (2018). Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1, 2227-2237.*
 	> - Keywords: ELMo, Language Model
 	> - Presentor : 윤석
+- 11 : Latent Dirichlet Allocation
+	> - [Paper](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf), Video, Presentation
+	> - *David M. Blei, Andrew Y. Ng, Michael I. Jordan (2003). Journal of Machine Learning Research 3(Jan), 993-1022.*
+	> - Keywords: LDA
+	> - Presentor : 민우
+- 12 : BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+	> - [Paper](https://arxiv.org/abs/1910.13461), Video, Presentation
+	> - *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer (2020). Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7871–7880.*
+	> - Keywords: BART
+	> - Presentor : samuel kim
