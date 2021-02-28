@@ -49,6 +49,8 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - [심형민](https://www.youtube.com/watch?v=ujJlwhvcUIk&feature=youtu.be)
 - 진승정
 - 윤석
+- 민우
+- samuel kim
 
 ## Presentations
 ### Season1
