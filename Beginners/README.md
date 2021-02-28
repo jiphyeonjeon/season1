@@ -108,7 +108,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: LDA
 	> - Presentor : 민우
 - 12 : BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
-	> - [Paper](https://arxiv.org/abs/1910.13461), Video, Presentation
+	> - [Paper](https://arxiv.org/abs/1910.13461), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/12.%20BART%20논문%20리뷰%20(samuel%20kim).pdf)
 	> - *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer (2020). Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7871–7880.*
 	> - Keywords: BART
 	> - Presentor : samuel kim
