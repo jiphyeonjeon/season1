@@ -43,6 +43,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - 양수영
 - [송일현](https://www.youtube.com/channel/UCjhAUlylQz81M1VHLAKEk_Q)
 - [구혜연](https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
+- 김경민
 <!--
 - [수영]()
 -->
@@ -97,6 +98,14 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Minjia Zhang and Yuxiong He*
 	> - Keywords: Progressive Layer Dropping, Stochastic Depth, Transformer
 	> - Presenter : 구혜연
+	> 
+- 09 : https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_10_NumNet%20Machine%20Reading%20Comprehension%20with%20Numerical%20Reasoning.pdf
+	> - [Paper](https://arxiv.org/abs/1910.06701), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_10_NumNet%20Machine%20Reading%20Comprehension%20with%20Numerical%20Reasoning.pdf)
+	> - *Qiu Ran et al, EMNLP 2019*
+	> - Keywords: Machine Reading Comprehension
+	> - Presenter : 김경민
+	> 
+
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
