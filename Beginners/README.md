@@ -50,7 +50,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - 진승정
 - 윤석
 - 민우
-- samuel kim
+- 김사무엘
 
 ## Presentations
 ### Season1
