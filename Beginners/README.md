@@ -116,7 +116,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: BART
 	> - Presentor : samuel kim
 - 13 : Convolutional Neural Networks for Sentence Classification
-	> - [Paper](https://www.aclweb.org/anthology/D14-1181/), Video, [Presentation]()
+	> - [Paper](https://www.aclweb.org/anthology/D14-1181/), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/13.%20Convolutional%20Neural%20Networks%20for%20Sentence%20Classification%20(%EC%9C%A0%EC%98%81%EC%9E%AC%20%EB%8B%98).pdf)
 	> - *Yoon Kim (2014). Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1746–1751.*
 	> - Keywords: 
 	> - Presentor : 유영재
