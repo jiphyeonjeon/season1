@@ -51,6 +51,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - 윤석
 - 민우
 - 김사무엘
+- 유영재
 
 ## Presentations
 ### Season1
@@ -114,3 +115,8 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer (2020). Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7871–7880.*
 	> - Keywords: BART
 	> - Presentor : samuel kim
+- 13 : Convolutional Neural Networks for Sentence Classification
+	> - [Paper](https://www.aclweb.org/anthology/D14-1181/), Video, [Presentation]()
+	> - *Yoon Kim (2014). Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1746–1751.*
+	> - Keywords: 
+	> - Presentor : 유영재
