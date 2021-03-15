@@ -44,6 +44,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [송일현](https://www.youtube.com/channel/UCjhAUlylQz81M1VHLAKEk_Q)
 - [구혜연](https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
 - 김경민
+- 박민혜
+- 
 <!--
 - [수영]()
 -->
@@ -93,6 +95,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_08_GPT-X.pptx)
 	> - Keywords: GPT, Language Model
 	> - Presenter : 고현웅
+
 - 09 : Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping
 	> - [Paper](https://arxiv.org/abs/2010.13369), [Video](https://www.youtube.com/watch?v=mLyq5JFr-kE&t=1s), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_09_Accelerating%20Training%20of%20Transformer-Based%20Language%20Models%20with%20Progressive%20Layer%20Dropping_%EA%B5%AC%ED%98%9C%EC%97%B0.pdf)
 	> - *Minjia Zhang and Yuxiong He*
@@ -105,6 +108,17 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Keywords: Machine Reading Comprehension
 	> - Presenter : 김경민
 
+- 11 : Memory Networks
+	> - [Paper](https://arxiv.org/abs/1410.3916), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_11_Memory%20Networks.pdf)
+	> - *Jason Weston et al, ICLR 2015*
+	> - Keywords: 
+	> - Presenter : 박민혜
+
+- 12 : Double Graph Based Reasoning for Document-level Relation Extraction (GAIN)
+	> - [Paper](https://arxiv.org/abs/2009.13752), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_12_Double%20Graph%20Based%20Reasoning%20for%20Document-level%20Relation%20Extraction%20(GAIN).pdf)
+	> - *Shuang Zeng et al, EMNLP 2020*
+	> - Keywords: 
+	> - Presenter : 손수현
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
