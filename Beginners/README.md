@@ -116,7 +116,7 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - Keywords: 
 	> - Presentor : 유영재
 - 14 : Neural machine translation by jointly learning to align and translate
-	> - [Paper](https://arxiv.org/pdf/1409.0473.pdf), Video, [Presentation]()
+	> - [Paper](https://arxiv.org/pdf/1409.0473.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/14.%20Neural%20machine%20translation%20by%20jointly%20learning%20to%20align%20and%20translate%20(%EC%86%8C%ED%98%84%EC%A7%80%20%EB%8B%98).pdf)
 	> - *Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio (2014). 3rd International Conference on Learning Representations, ICLR 2015 *
 	> - Keywords: Attention
 	> - Presentor : 소현지
