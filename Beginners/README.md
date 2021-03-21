@@ -48,10 +48,10 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - 김지은
 - [심형민](https://www.youtube.com/watch?v=ujJlwhvcUIk&feature=youtu.be)
 - 진승정
-- 윤석
 - 민우
 - 김사무엘
 - 유영재
+- 소현지
 
 ## Presentations
 ### Season1
@@ -100,11 +100,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, et al. (2014). arXiv preprint arXiv:1412.5567.*
 	> - Keywords: speech recognition, RNN
 	> - Presentor : 진승정
-- 10 : Deep Contextualized Word Representations
-	> - [Paper](https://www.aclweb.org/anthology/N18-1202/), Video, Presentation
-	> - *Matthew Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer (2018). Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1, 2227-2237.*
-	> - Keywords: ELMo, Language Model
-	> - Presentor : 윤석
 - 11 : Latent Dirichlet Allocation
 	> - [Paper](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf), Video, Presentation
 	> - *David M. Blei, Andrew Y. Ng, Michael I. Jordan (2003). Journal of Machine Learning Research 3(Jan), 993-1022.*
@@ -120,3 +115,8 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Yoon Kim (2014). Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1746–1751.*
 	> - Keywords: 
 	> - Presentor : 유영재
+- 14 : Neural machine translation by jointly learning to align and translate
+	> - [Paper](https://arxiv.org/pdf/1409.0473.pdf), Video, [Presentation]()
+	> - *Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio (2014). 3rd International Conference on Learning Representations, ICLR 2015 *
+	> - Keywords: Attention
+	> - Presentor : 소현지
