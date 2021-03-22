@@ -20,19 +20,21 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Knowledge_Distillation | 1 |
 | Query Generation | 1 |
 | Architecture | 1 |
-| Total | 8 |
+| coreference | 1 |
+| Total | 9 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
-| EMNLP | 4 |
-| Total | 4 |
+| EMNLP | 5 |
+| Total | 5 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
+| 2017 | 1 |
 | 2020 | 6 |
-| Total | 6 |
+| Total | 7 |
 
 ## Presenters
 ### Season1
@@ -119,6 +121,14 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Shuang Zeng et al, EMNLP 2020*
 	> - Keywords: 
 	> - Presenter : 손수현
+	> 
+
+- 13 : End-to-end Neural Coreference Resolution
+	> - [Paper](https://arxiv.org/abs/1707.07045), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/tree/main/Advanced/Season%201/presentations)
+	> - *Kenton Lee et al, EMNLP 2017*
+	> - Keywords: coreference, span
+	> - Presenter : 허철훈
+
 <!--
 - 04 :
 	> - [Paper](), [Video](), [Presentation]()
