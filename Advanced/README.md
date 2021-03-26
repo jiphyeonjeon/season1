@@ -21,20 +21,20 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Query Generation | 1 |
 | Architecture | 1 |
 | coreference | 1 |
-| Total | 9 |
+| Total | 13 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | EMNLP | 5 |
-| Total | 5 |
+| Total | 13 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
 | 2017 | 1 |
 | 2020 | 6 |
-| Total | 7 |
+| Total | 13 |
 
 ## Presenters
 ### Season1
@@ -47,7 +47,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [구혜연](https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
 - 김경민
 - 박민혜
-- 
+
 <!--
 - [수영]()
 -->
