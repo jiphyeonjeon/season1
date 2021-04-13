@@ -16,25 +16,28 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Decoding | 1 |
 | Augmentation | 1 |
 | Translation | 2 |
-| Dialog | 1 |
+| Dialog | 2 |
 | Knowledge_Distillation | 1 |
 | Query Generation | 1 |
 | Architecture | 1 |
 | coreference | 1 |
-| Total | 13 |
+| Representation | 1 |
+| Total | 15 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | EMNLP | 5 |
-| Total | 13 |
+| None | 10 |
+| Total | 15 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
+| 2014 | 1 |
 | 2017 | 1 |
-| 2020 | 6 |
-| Total | 13 |
+| 2020 | 7 |
+| Total | 15 |
 
 ## Presenters
 ### Season1
@@ -47,6 +50,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - [구혜연](https://www.youtube.com/channel/UCcbgGH3YwELtPNo8R6vqkBQ)
 - 김경민
 - 박민혜
+- [김선행](https://www.youtube.com/channel/UC57QAW9dG10UdDU6ZQp6oyg)
+- 송성희
 
 <!--
 - [수영]()
@@ -128,6 +133,18 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Kenton Lee et al, EMNLP 2017*
 	> - Keywords: coreference, span
 	> - Presenter : 허철훈
+
+- 14 : Towards a Human-like Open-Domain Chatbot
+	> - [Paper](https://arxiv.org/abs/2001.09977), [Video](https://www.youtube.com/watch?v=uSPtFpEbpDg), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_14_toward%20a%20human-like%20open-domain%20chatbot.pdf)
+	> - *Daniel de Freitas Adiwardana et al*
+	> - Keywords: MEENA, SSA
+	> - Presenter : 김선행
+
+- 15 : Distributed Representations of Sentences and Documents
+	> - [Paper](https://arxiv.org/abs/1405.4053), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_15_Distributed%20Representations%20of%20Sentences%20and%20Documents.pdf)
+	> - *Quoc Le et al*
+	> - Keywords: Paragraph Vector, Bag of Words
+	> - Presenter : 송성희
 
 <!--
 - 04 :
