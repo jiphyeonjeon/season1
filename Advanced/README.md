@@ -21,15 +21,16 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Query Generation | 1 |
 | Architecture | 1 |
 | coreference | 1 |
-| Representation | 1 |
-| Total | 15 |
+| Representation | 2 |
+| Total | 16 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | EMNLP | 5 |
+| IEEE | 1 |
 | None | 10 |
-| Total | 15 |
+| Total | 16 |
 
 ### by Published Year
 | Year | Season1 |
@@ -37,7 +38,8 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | 2014 | 1 |
 | 2017 | 1 |
 | 2020 | 7 |
-| Total | 15 |
+| 2021 | 1 |
+| Total | 16 |
 
 ## Presenters
 ### Season1
@@ -52,6 +54,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - 박민혜
 - [김선행](https://www.youtube.com/channel/UC57QAW9dG10UdDU6ZQp6oyg)
 - 송성희
+- 
 
 <!--
 - [수영]()
@@ -145,6 +148,12 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Quoc Le et al*
 	> - Keywords: Paragraph Vector, Bag of Words
 	> - Presenter : 송성희
+
+- 15 : Improving Skip-Gram Embeddings Using BERT
+	> - [Paper](https://ieeexplore.ieee.org/document/9376654), [Video](https://www.youtube.com/watch?v=a9PT0oV26OM), Presentation
+	> - *Yile Wang et al*
+	> - Keywords: static embedding, Skip-Gram, BERT
+	> - Presenter : 윤병일
 
 <!--
 - 04 :
