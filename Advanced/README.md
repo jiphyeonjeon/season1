@@ -149,7 +149,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Keywords: Paragraph Vector, Bag of Words
 	> - Presenter : 송성희
 
-- 15 : Improving Skip-Gram Embeddings Using BERT
+- 16 : Improving Skip-Gram Embeddings Using BERT
 	> - [Paper](https://ieeexplore.ieee.org/document/9376654), [Video](https://www.youtube.com/watch?v=a9PT0oV26OM), Presentation
 	> - *Yile Wang et al*
 	> - Keywords: static embedding, Skip-Gram, BERT
