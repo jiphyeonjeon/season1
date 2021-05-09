@@ -1,7 +1,7 @@
 # Jiphyeonjeon NLP Presentation List and Summary - Beginners Class
 A Documentation of Jiphyeonjeon NLP Presentation Beginners Group.<br>
 NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페이지입니다.<br>
-* 수정 및 업데이트 요청 : 강명철(mckang1020@gmail.com), 이윤재(yunjae2005@gmail.com).*
+* 수정 및 업데이트 요청 : 강명철(mckang1020@gmail.com), 이윤재(yunjae2005@gmail.com)
 * 초급반 스케쥴: [구글 독스](https://docs.google.com/spreadsheets/d/118pLU-F0B9gfnR5xbXQ10NXDPAi_JGYiGnD3FZpqXBE/edit#gid=0)
 
 ## Table of Contents
