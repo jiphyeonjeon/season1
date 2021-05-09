@@ -85,7 +85,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - Presenter : 송일현
 
 - 08 : GPT-X
-	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_08_GPT-X.pptx)
+	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/season1/advanced/presentations/Season1_08_GPT-X.pptx)
 	> - Keywords: GPT, Language Model
 	> - Presenter : 고현웅
 
