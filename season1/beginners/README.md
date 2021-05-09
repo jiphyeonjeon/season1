@@ -1,7 +1,8 @@
 # Jiphyeonjeon NLP Presentation List and Summary - Beginners Class
 A Documentation of Jiphyeonjeon NLP Presentation Beginners Group.<br>
 NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페이지입니다.<br>
-*수정 및 업데이트 요청 : 강명철(mckang1020@gmail.com), 이윤재(yunjae2005@gmail.com).*
+* 수정 및 업데이트 요청 : 강명철(mckang1020@gmail.com), 이윤재(yunjae2005@gmail.com).*
+* 초급반 스케쥴: [구글 독스](https://docs.google.com/spreadsheets/d/118pLU-F0B9gfnR5xbXQ10NXDPAi_JGYiGnD3FZpqXBE/edit#gid=0)
 
 ## Table of Contents
 - [Summary](#Summary)
@@ -36,21 +37,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 | 2017 | 2 |
 | 2019 | 1 |
 | Total | 9 |
-
-## Presenters
-### Season1
-- [송석리](https://www.youtube.com/channel/UCi_yBLEHaNd_kqRtGn3HHsQ)
-- [이영빈](https://www.youtube.com/watch?v=o-2kfiZP7Z8&feature=youtu.be)
-- [이기창](https://www.youtube.com/watch?v=7pDB9zqwxhs)
-- [허치영](https://www.youtube.com/watch?v=EWMNCTpfsLI&feature=youtu.be)
-- [이정섭](https://www.youtube.com/channel/UCET25J8drUu6GZXQcI7ZwPQ)
-- [오새찬](https://www.youtube.com/watch?v=EbXJ7OT6utQ)
-- 김지은
-- [심형민](https://www.youtube.com/watch?v=ujJlwhvcUIk&feature=youtu.be)
-- 진승정
-- 김사무엘
-- 유영재
-- 소현지
 
 ## Presentations
 ### Season1
