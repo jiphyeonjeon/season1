@@ -21,25 +21,25 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Query Generation | 1 |
 | Architecture | 1 |
 | coreference | 1 |
-| Representation | 4 |
-| Total | 18 |
+| Representation | 2 |
+| Total | 16 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | EMNLP | 5 |
 | IEEE | 1 |
-| None | 12 |
-| Total | 18 |
+| None | 10 |
+| Total | 16 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
 | 2014 | 1 |
 | 2017 | 1 |
-| 2020 | 8 |
-| 2021 | 9 |
-| Total | 18 |
+| 2020 | 7 |
+| 2021 | 1 |
+| Total | 16 |
 
 ## Presenters
 ### Season1
@@ -54,9 +54,7 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 - 박민혜
 - [김선행](https://www.youtube.com/channel/UC57QAW9dG10UdDU6ZQp6oyg)
 - 송성희
-- [윤병일](https://www.youtube.com/channel/UCJ2UKIal9XSIGAAyBbdRj9w)
-- [김병진](https://www.youtube.com/channel/UCUdd44DLp5R6ybYfChhS_BQ)
-- 민지웅
+- 
 
 <!--
 - [수영]()
@@ -156,18 +154,6 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Yile Wang et al*
 	> - Keywords: static embedding, Skip-Gram, BERT
 	> - Presenter : 윤병일
-
-- 17 : E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT
-	> - [Paper](https://arxiv.org/pdf/1911.03681v1.pdf), [Video](https://www.youtube.com/watch?v=a9PT0oV26OM), Presentation
-	> - *Nina Poerner et al*
-	> - Keywords: factual knowledge, name_based reasoning, unsupervised QA
-	> - Presenter : 김병진
-
-- 18 : Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks
-	> - [Paper](https://arxiv.org/abs/2010.08240), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Advanced/Season%201/presentations/Season1_18_Augmented%20SBERT%20Data%20Augmentation%20Method%20for%20Improving%20Bi-Encoders%20for%20Pairwise%20Sentence%20Scoring%20Tasks.pdf)
-	> - *Nandan Thakur et al*
-	> - Keywords: data augumentation, domain adaptation, sentence pair modeling, sbert, bi-encoder
-	> - Presenter : 민지웅
 
 <!--
 - 04 :
