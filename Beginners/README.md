@@ -48,7 +48,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 - 김지은
 - [심형민](https://www.youtube.com/watch?v=ujJlwhvcUIk&feature=youtu.be)
 - 진승정
-- 민우
 - 김사무엘
 - 유영재
 - 소현지
@@ -100,11 +99,6 @@ NLP 논문 읽기 모임 집현전의 기초반 요약 및 발표 리스트 페�
 	> - *Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, et al. (2014). arXiv preprint arXiv:1412.5567.*
 	> - Keywords: speech recognition, RNN
 	> - Presentor : 진승정
-- 11 : Latent Dirichlet Allocation
-	> - [Paper](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf), Video, Presentation
-	> - *David M. Blei, Andrew Y. Ng, Michael I. Jordan (2003). Journal of Machine Learning Research 3(Jan), 993-1022.*
-	> - Keywords: LDA
-	> - Presentor : 민우
 - 12 : BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 	> - [Paper](https://arxiv.org/abs/1910.13461), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/Beginners/Season%201/presentation/12.%20BART%20논문%20리뷰%20(samuel%20kim).pdf)
 	> - *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer (2020). Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 7871–7880.*
