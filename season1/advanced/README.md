@@ -22,25 +22,25 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 | Query Generation | 1 |
 | Architecture | 1 |
 | coreference | 1 |
-| Representation | 2 |
-| Total | 16 |
+| Representation | 4 |
+| Total | 18 |
 
 ### by Conference/Journals
 | Conference/Journal | Season1 |
 | --- | --- |
 | EMNLP | 5 |
 | IEEE | 1 |
-| None | 10 |
-| Total | 16 |
+| None | 12 |
+| Total | 18 |
 
 ### by Published Year
 | Year | Season1 |
 | --- | --- |
 | 2014 | 1 |
 | 2017 | 1 |
-| 2020 | 7 |
-| 2021 | 1 |
-| Total | 16 |
+| 2020 | 8 |
+| 2021 | 2 |
+| Total | 18 |
 
 ## Presentations
 ### Season1
@@ -137,6 +137,20 @@ NLP 논문 읽기 모임 집현전의 요약 및 발표 리스트 페이지입�
 	> - *Yile Wang et al*
 	> - Keywords: static embedding, Skip-Gram, BERT
 	> - Presenter : 윤병일
+
+- 17 : Improving Skip-Gram Embeddings Using BERT
+	> - [Paper](https://arxiv.org/pdf/1911.03681.pdf), [Video](https://www.youtube.com/watch?v=f2WQwXvLvdI), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/season1/advanced/presentations/Season1_17_E-BERT%20Efficient-Yet-Effective%20Entity%20Embeddings%20for%20BERT.pdf)
+	> - *Nina Poerner et al*
+	> - Keywords: factual knowledge, name-based reasoning, unsupervised QA
+	> - Presenter : 김병진
+
+- 18 : Improving Skip-Gram Embeddings Using BERT
+	> - [Paper](https://arxiv.org/pdf/2010.08240.pdf), Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/season1/advanced/presentations/Season1_18_Augmented%20SBERT%20Data%20Augmentation%20Method%20for%20Improving%20Bi-Encoders%20for%20Pairwise%20Sentence%20Scoring%20Tasks.pdf)
+	> - *Nandan Thakur et al*
+	> - Keywords: data augmentation method, domain adaptation, sentence pair modeling, sbert, bi-encoder
+	> - Presenter : 민지웅
+
+
 
 <!--
 - 04 :
