@@ -4,10 +4,9 @@
 
 ## Table of Contents
 - [Summary](#Summary)
-- [Presenters](#Presenters)
-- Presentations<br>
-  - [Season1](#Season1)
-
+- [Presentations](#Presentations)
+ <br><br>
+ 
 ## Summary
 ### by Subject
 | Subject | Season1 |
@@ -39,9 +38,9 @@
 | 2020 | 8 |
 | 2021 | 2 |
 | Total | 18 |
+<br><br>
 
 ## Presentations
-### Season1
 - 01 : If beam search is the answer, what was the question?
 	> - [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.170/), [Video](https://youtu.be/KJClfF_nJj0), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/advanced/presentations/Season1-01_If%20beam%20search%20is%20the%20answer%2C%20what%20was%20the%20question.pdf)
 	> - *Clara Meister et al., EMNLP 2020*
