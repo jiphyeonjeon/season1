@@ -1,4 +1,4 @@
-# 집현전 NLP 리뷰 모임
+# Jiphyeonjeon: Korea's largest NLP study group
 
 - [Season 1](season1)
 - [Season 2](season2)
