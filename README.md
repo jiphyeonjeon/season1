@@ -1,4 +1,4 @@
-# Jiphyeonjeon: The largest Korean NLP study group
+# Jiphyeonjeon: The largest Korean NLP paper reading group
 
 - [Season 1](season1)
 - [Season 2](season2)
