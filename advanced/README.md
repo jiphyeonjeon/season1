@@ -1,11 +1,11 @@
 # Jiphyeonjeon Season 1 - Advanced Class
 * 수정 및 업데이트 요청 : 이정섭(omanma1928@naver.com ), 구혜연(go8476@naver.com)
 * 중급반 스케쥴: [구글 독스](https://docs.google.com/spreadsheets/d/1URygclGeWPPJoYBF5Q2p18auAflH33w-KXaWAHfXkMA/edit#gid=0)
+<br><br>
 
 ## Table of Contents
 - [Summary](#Summary)
 - [Presentations](#Presentations)
-
 <br><br>
  
 ## Summary
