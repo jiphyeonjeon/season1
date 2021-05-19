@@ -84,7 +84,7 @@
 	> - Presenter : 송일현
 
 - 08 : GPT-X
-	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/season1/advanced/presentations/Season1_08_GPT-X.pptx)
+	> - Paper, Video, [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/advanced/presentations/Season1_08_GPT-X.pptx)
 	> - Keywords: GPT, Language Model
 	> - Presenter : 고현웅
 
