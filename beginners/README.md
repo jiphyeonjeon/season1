@@ -1,11 +1,11 @@
 # Jiphyeonjeon Season 1 - Beginners Class
 * 수정 및 업데이트 요청 : 강명철(mckang1020@gmail.com), 이윤재(yunjae2005@gmail.com)
 * 초급반 스케쥴: [구글 독스](https://docs.google.com/spreadsheets/d/118pLU-F0B9gfnR5xbXQ10NXDPAi_JGYiGnD3FZpqXBE/edit#gid=0)
+<br><br>
 
 ## Table of Contents
 - [Summary](#Summary)
 - [Presentations](#Presentations)
-
 <br><br>
 
 ## Summary
@@ -35,7 +35,6 @@
 | 2017 | 2 |
 | 2019 | 1 |
 | Total | 9 |
-
 <br><br>
 
 ## Presentations
