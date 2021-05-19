@@ -4,9 +4,7 @@
 
 ## Table of Contents
 - [Summary](#Summary)
-- [Presenters](#Presenters)
-- Presentations
-  - [Season1](#Season1)
+- [Presentations](#Presentations)
 
 ## Summary
 ### by Subject
@@ -37,7 +35,6 @@
 | Total | 9 |
 
 ## Presentations
-### Season1
 - 01 : Long Short-Term Memory
 	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](https://youtu.be/HHKSCkPEQfw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/beginners/presentation/01.%20LSTM%20논문%20리뷰%20(석리님).pdf)
 	> - *S. Hochreiter, J. Schmidhuber,  Neural Computation 1997*
