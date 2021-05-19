@@ -1,5 +1,6 @@
 # 집현전 NLP 리뷰 모임
-집현전 NLP 리뷰 모임을 위한 Github 레포지토리입니다.
 
-- [시즌1](season1)
-- [시즌2](season2)
+- [Season 1](season1)
+- [Season 2](season2)
+
+<img width="928" alt="스크린샷 2021-05-19 오후 12 17 49" src="https://user-images.githubusercontent.com/38183241/118751446-46f80380-b89c-11eb-8c29-683e0f17247d.png">
