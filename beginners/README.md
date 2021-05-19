@@ -6,6 +6,8 @@
 - [Summary](#Summary)
 - [Presentations](#Presentations)
 
+<br><br>
+
 ## Summary
 ### by Subject
 | Subject | Season1 |
@@ -33,6 +35,8 @@
 | 2017 | 2 |
 | 2019 | 1 |
 | Total | 9 |
+
+<br><br>
 
 ## Presentations
 - 01 : Long Short-Term Memory
